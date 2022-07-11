@@ -26,8 +26,6 @@
   <a href="https://twitter.com/MatheusNPxt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-peixoto-228a2320b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
-  ![Snake animation](https://github.com/MatheusPxt21/MatheusPxt21/blob/main/cobrinha.yml)
 
  
 </div>
