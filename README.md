@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently studying Computer Science at the Federal University of Viçosa (UFV) - Campus Florestal
 - 📚 I'm currently learning Python, C, C++, HTML and CSS languages
-<div style="display: inline_block">
+<div align="center"&style="display: inline_block">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Math-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
