@@ -1,5 +1,10 @@
+<div>
+  <a href="https://www.instagram.com/matheus_n_pxt" target="_blank"><img src="https://github.com/MatheusPxt21/MatheusPxt21/blob/main/Logo.png"></a>  
+</div>  
+
 
 ## Hello, I'm Matheus Peixoto and welcome to my GitHub 👋
+
 
 - 🎓 I'm currently studying Computer Science at the Federal University of Viçosa (UFV) - Campus Florestal
 - 📚 I'm currently learning Python, C, C++, HTML and CSS languages
