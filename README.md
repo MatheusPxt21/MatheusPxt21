@@ -6,7 +6,7 @@
 ## Hello, I'm Matheus Peixoto and welcome to my GitHub 👋
 
 
-- 🎓 I'm currently studying Computer Science at the Federal University of Viçosa (UFV) - Campus Florestal
+- 🎓 I'm currently studying Computer Science at Universidade Federal de Viçosa (UFV) - Campus Florestal
 - 📚 I'm currently learning Python, C, C++, HTML and CSS languages
 <div align="center"&style="display: inline_block">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
