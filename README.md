@@ -1,5 +1,5 @@
 <div>
-  <a href="https://www.instagram.com/matheus_n_pxt/" target="_blank"><img src="https://github.com/MatheusPxt21/MatheusPxt21/blob/main/Logo.png"></a>  
+  <a href="https://www.instagram.com/matheus_n_pxt/" target="_blank"><img height="70%" width="70%" align="center" src="https://github.com/MatheusPxt21/MatheusPxt21/blob/main/Logo.png"></a>  
 </div>  
 
 
