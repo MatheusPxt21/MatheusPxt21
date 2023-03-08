@@ -16,7 +16,14 @@
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Math-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div> <br><br>
+</div>
+<br>
+
+- 👨‍💻 I'm learning to develop mobile apps using the Ionic Framework
+<div align="center"&style="display: inline_block">
+  <img align="center" alt="Math-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+</div>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/MatheusPxt21">
