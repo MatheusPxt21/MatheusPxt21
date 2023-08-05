@@ -19,7 +19,7 @@
 </div>
 <br>
 
-- 👨‍💻 I'm learning to develop mobile apps using the Ionic Framework
+- 👨‍💻 Currently developing Android apps using the Ionic Framework
 <div align="center"&style="display: inline_block">
   <img align="center" alt="Math-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 </div>
