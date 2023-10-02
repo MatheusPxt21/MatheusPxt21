@@ -7,7 +7,7 @@
 
 
 - 🎓 I'm currently studying Computer Science at Universidade Federal de Viçosa (UFV) - Campus Florestal
-- 📚 I'm currently learning the following languagens: Python, C, C++, HTML, CSS, Typescript and PHP
+- 📚 I'm currently learning the following languagens: Python, C, C++, HTML, CSS, Typescript, PHP and Java
 <div align="center"&style="display: inline_block">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -16,6 +16,8 @@
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Math-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Math-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 </div>
 <br>
 
