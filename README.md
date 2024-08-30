@@ -7,7 +7,7 @@
 
 
 - 🎓 I'm currently studying Computer Science at Universidade Federal de Viçosa (UFV) - Campus Florestal
-- 📚 I'm currently learning the following languagens: Python, C, C++, HTML, CSS, Typescript, PHP, Java, Javascript and VueJS
+- 📚 I'm currently learning the following languagens: Python, C, C++, HTML, CSS, Typescript, PHP, Java, Javascript, VueJS and Laravel
 <div align="center"&style="display: inline_block">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Math-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -19,6 +19,7 @@
   <img align="center" alt="Math-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Math-javascript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Math-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="Math-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 <br>
 
