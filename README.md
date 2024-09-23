@@ -31,6 +31,9 @@
 <br>
 <li> 
   💼 Currently working on the <a href="http://www.mymobiconf.caf.ufv.br/"/>myMobiConf</a> system with <a href="https://play.google.com/store/apps/details?id=com.ionicframework.scape771593&hl=pt_BR&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">mobile</a> development
+  <div align="center" justify="center">
+  <a href="https://play.google.com/store/apps/details?id=com.ionicframework.scape771593&hl=pt_BR&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"><img height="4%" width="4%" src="https://github.com/MatheusPxt21/MatheusPxt21/blob/main/icon.png"></a>  
+</div> 
 </li>
 <br><br>
 
